@@ -1,6 +1,6 @@
 # Generator-Jasmine-Node
 
-A generator for [Yeoman](http://yeoman.io).
+A unit test generator for [Yeoman](http://yeoman.io).
 
 ## Getting Started
 
@@ -26,6 +26,12 @@ jasmine-node spec/
 
 ```
 yo jasmine-node:module "moduleName"
+```
+
+#### Generating Specs
+
+```
+yo jasmine-node:spec "moduleName"
 ```
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
