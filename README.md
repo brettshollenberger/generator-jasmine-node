@@ -18,6 +18,8 @@ $ yo jasmine-node
 
 Name your first module, and you're on your way to TDDing dat app.
 
+```
 jasmine-node spec/
+```
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
