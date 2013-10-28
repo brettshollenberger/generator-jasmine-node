@@ -1,15 +1,15 @@
 {
   "name": "generator-jasmine-node",
-  "version": "0.0.0",
-  "description": "A generator for Yeoman",
+  "version": "0.0.1",
+  "description": "A Jasmine-Node unit test generator for Yeoman",
   "keywords": [
     "yeoman-generator"
   ],
   "homepage": "https://github.com/brettshollenberger/generator-jasmine-node",
   "bugs": "https://github.com/brettshollenberger/generator-jasmine-node/issues",
   "author": {
-    "name": "",
-    "email": "",
+    "name": "Brett Shollenberger",
+    "email": "brett@facultycreative.com",
     "url": "https://github.com/brettshollenberger"
   },
   "main": "app/index.js",
