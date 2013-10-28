@@ -1,4 +1,4 @@
-# Generator-Jasmine-Node [![Build Status](https://secure.travis-ci.org/brettshollenberger/generator-jasmine-node.png?branch=master)](https://travis-ci.org/brettshollenberger/generator-jasmine-node)
+# Generator-Jasmine-Node
 
 A generator for [Yeoman](http://yeoman.io).
 
