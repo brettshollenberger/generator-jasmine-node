@@ -22,4 +22,8 @@ Name your first module, and you're on your way to TDDing dat app.
 jasmine-node spec/
 ```
 
+#### Generating Additional Modules & Specs
+
+yo jasmine-node:module "moduleName"
+
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
