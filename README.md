@@ -22,6 +22,16 @@ Name your first module, and you're on your way to TDDing dat app.
 jasmine-node spec/
 ```
 
+#### Automating the Test Suite
+
+From the root of your project, run:
+
+```
+grunt watch
+```
+
+Now any updates you make to your spec or module file will run the test suite.
+
 #### Generating Additional Modules & Specs
 
 ```

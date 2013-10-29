@@ -41,6 +41,7 @@ JasmineNodeGenerator.prototype.app = function app() {
   this.template('_mod.spec.js', 'spec/' + this.moduleName + '.spec.js');
 
   this.copy('_package.json', 'package.json');
+  this.copy('_Gruntfile.js', 'Gruntfile.js');
 };
 
 JasmineNodeGenerator.prototype.projectfiles = function projectfiles() {
